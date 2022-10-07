@@ -1,3 +1,2 @@
-- Hi, I’m @ArunavDey :D
-- How to reach me:
- - arunav.dey@protonmail.com
+### Contact me:
+ arunav.dey@protonmail.com
