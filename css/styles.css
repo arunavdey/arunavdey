@@ -18,9 +18,11 @@ a:visited {
 
 .background {
   z-index: -1;
-  opacity: 70%;
+  opacity: 32%;
   width: 100%;
-  position: inline-block;
+  position: fixed;
+  left: 0px;
+  /* position: inline-block; */
 }
 
 .top_container {
@@ -39,12 +41,14 @@ a:visited {
 }
 
 .bottom_container {
+  position: absolute;
+  bottom: 0px;
   background-color: #282828;
   color: #e9e0bb;
-  /* width: 32rem; */
-  margin: 0;
-  padding: 4rem 32rem;
-  text-align: left;
+  width: 100%;
+  margin: 0rem auto;
+  padding: 2rem 0rem;
+  text-align: center;
 }
 
 #pfp {
