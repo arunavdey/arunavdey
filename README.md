@@ -1,17 +1,24 @@
 # \<ArunavDey\/\>
 
-<div id="header" align="center">
-  <div>
-    <img src="https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif" width="400" />
-    <div>
-      <span>*web development*, *artificial intelligence* and *machine learning*.</span><br />
-      <span>*computers* and *cars*.</span><br />
-      <span>*vim*.</span><br />
-      <span>(btw, i use arch).</span><br />
-    </div>
-  </div>
-</div> 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](#)
 
 
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)
+[![PostgresQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
+
+
+<img src="https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif" width="400" />
+
+*web development*, *artificial intelligence* and *machine learning*.  
+*computers* and *cars*.  
+*vim*.  
+(btw, i use arch)
 
 ## [Reach out to me!](mailto:arunav.dey@protonmail.com)
