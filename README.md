@@ -1,4 +1,7 @@
-# ArunavDey
+# Hey!
+
+I'm a software engineer who loves artificial intelligence and deep learning.  
+[Reach out to me!](mailto:arunav.dey@protonmail.com)  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
@@ -13,6 +16,3 @@
 
 <!--img src="https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif" width="400" /-->
 
-Hey!  
-I'm a software engineer who loves artificial intelligence and deep learning.  
-[Reach out to me!](mailto:arunav.dey@protonmail.com)
