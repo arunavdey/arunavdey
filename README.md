@@ -1,4 +1,4 @@
-# \<ArunavDey\/\>
+# ArunavDey
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
@@ -11,11 +11,8 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
 
 
-<img src="https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif" width="400" />
+<!--img src="https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif" width="400" /-->
 
-*web development*, *artificial intelligence* and *machine learning*.  
-*computers* and *cars*.  
-*vim*.  
-(btw, i use arch)
+Hey! I'm a software engineer who loves AI-ML
 
 ## [Reach out to me!](mailto:arunav.dey@protonmail.com)
