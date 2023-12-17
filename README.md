@@ -13,6 +13,6 @@
 
 <!--img src="https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif" width="400" /-->
 
-Hey! I'm a software engineer who loves AI-ML
-
-## [Reach out to me!](mailto:arunav.dey@protonmail.com)
+Hey!  
+I'm a software engineer who loves artificial intelligence and deep learning.  
+[Reach out to me!](mailto:arunav.dey@protonmail.com)
