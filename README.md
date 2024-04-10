@@ -1,7 +1,7 @@
 # Hey!
 
 I'm a software engineer who loves artificial intelligence and deep learning.  
-[Reach out to me!](mailto:arunav.dey@protonmail.com)  
+[Reach out to me!](mailto:arunav.dey@protonmail.com)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
@@ -12,7 +12,3 @@ I'm a software engineer who loves artificial intelligence and deep learning.
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
-
-
-<!--img src="https://media.giphy.com/media/nIlgTxY29wJuU/giphy.gif" width="400" /-->
-
