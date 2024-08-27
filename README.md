@@ -1,8 +1,8 @@
-# hello!
+# 👋
 
-i'm a software engineer who loves artificial intelligence and deep learning.
+I indulge in artificial intelligence, deep learning and software engineering.
 
-also a vim motions and arch linux glazer.
+A vim motions and arch linux glazer.
 
 [Reach out to me!](mailto:arunav.dey@protonmail.com)
 
