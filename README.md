@@ -7,6 +7,7 @@ A vim motions and arch linux glazer.
 [Reach out to me!](mailto:arunav.dey@protonmail.com)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+![Rust](https://img.shields.io/badge/Rust-rust?logo=rust)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](#)
