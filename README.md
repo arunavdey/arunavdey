@@ -4,7 +4,7 @@ I indulge in artificial intelligence, deep learning and software engineering.
 
 A vim motions and arch linux glazer.
 
-[Reach out to me!](mailto:arunav.dey@protonmail.com)
+[Reach out to me!](mailto:arunav.dey@pm.me)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 ![Rust](https://img.shields.io/badge/Rust-rust?logo=rust)
