@@ -1,6 +1,6 @@
 # 👋
 
-I indulge in artificial intelligence, deep learning and software engineering.
+I indulge in artificial intelligence, deep learning and web development.
 
 A vim motions and arch linux glazer.
 
